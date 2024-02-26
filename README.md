@@ -21,12 +21,12 @@ Follow the below steps to get the app running on your local machine.
 
 1. Clone the repository:
     ```
-    git clone git@github.com:goapi-ai/Midjourney-Inpainting-UI.git
+    git clone git@github.com:Goapiai/midjourney-inpaint-ui.git
     ```
 
 2. Navigate into the cloned repository:
     ```
-    cd Midjourney-Inpainting-UI
+    cd midjourney-inpaint-ui
     ```
 3. Install the necessary dependencies:
     ```
